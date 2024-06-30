@@ -10,6 +10,8 @@ Built using HTML, CSS, and JavaScript, this project utilizes API integration to 
 
 # API used 
 "https://api.spoonacular.com/recipes/random?number=10&apiKey=275d58779ccf4e22af03e792e8819fff"
+# Github.io
+https://aman242003.github.io/cuisine-app-book/
 
 # Usage
 1. Browse through the recipes on the homepage.
